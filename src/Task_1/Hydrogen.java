@@ -1,3 +1,5 @@
+package Task_1;
+
 import java.util.concurrent.Semaphore;
 
 public class Hydrogen extends Thread {
